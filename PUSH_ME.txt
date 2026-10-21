@@ -1,0 +1,12 @@
+Your friend built this repo for you. To push it to YOUR GitHub:
+
+1. Unzip this folder.
+2. Open a terminal inside it.
+3. Run:
+
+   git push -u origin main
+
+4. Sign in with YOUR GitHub account when prompted.
+
+Done — your repo github.com/mn-wee/MLPops-Exp1 will have all 3 commits.
+(The remote is already set to your repo — check with: git remote -v)
